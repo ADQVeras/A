@@ -1,0 +1,71 @@
+
+/*****PADRÃO DE ESTILO DE BOTÃO*****/
+button{
+    box-sizing: border-box;
+
+    position: absolute;
+    
+    border: none;
+    border-radius: 10px;
+}
+
+button:hover{
+    cursor: pointer;
+
+    color: white;
+    background: #000814;
+}
+/*********************************/
+
+
+
+/*****BOTÃO: ENTRAR NA MINHA CONTA*****/
+.btn-entrarNaMinhaConta{
+    width: 585px;
+    height: 98px;
+    left: 156px;
+    top: 572px;
+}
+/*********************************/
+
+
+
+/*****BOTÃO ME CADASTRAR COMO PF*****/
+.btn-meCadastrarComoPf{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 585px;
+    height: 98px;
+    left: 156px;
+    top: 671px;
+    
+
+    border: none;
+    border-radius: 10px;
+}
+/*********************************/
+
+
+
+/*****PADRÃO DE ESTILO DE BOTÃO*****/
+.btn-cadastrarMeuNegocio{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 585px;
+    height: 98px;
+    left: 156px;
+    top: 770px;
+    
+
+    border: none;
+    border-radius: 10px;
+}
+/*********************************/
+
+.grupo-botao{
+    position: absolute;
+    left: 1px;
+    top: -180px;
+}
